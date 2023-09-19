@@ -1,2 +1,2 @@
 # SARIMAX model mollusc data
-A Python program to detect anomalies in data from a shellfish water pollution sensor.
+A Python program to detect anomalies in data from a mollusc water pollution sensor.
